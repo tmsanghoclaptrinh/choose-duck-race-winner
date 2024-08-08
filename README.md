@@ -35,6 +35,7 @@
 
 - Facebook: [Trần Minh Sáng](https://www.facebook.com/sangtran.04/)
 - Blog: https://tmsanghoclaptrinh.com
+- Facebook page: [CLB Lập trình - THPT Ngọc Tảo](https://facebook.com/clb.it.ngoctao)
 
 ## Disclaimer
 * This software is provided for educational purposes only and
