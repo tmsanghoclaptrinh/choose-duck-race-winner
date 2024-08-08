@@ -31,6 +31,11 @@
 4. Enable Developer Mode.
 5. Drag the `choose-duck-race-winner` folder anywhere on the page to import it (do not delete the folder afterwards).
 
+## Author
+
+- Facebook: [Trần Minh Sáng](https://www.facebook.com/sangtran.04/)
+- Blog: https://tmsanghoclaptrinh.com
+
 ## Disclaimer
 * This software is provided for educational purposes only and
 is provided "AS IS", without warranty of any kind, express or

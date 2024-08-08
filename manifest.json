@@ -1,6 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Choose Duck Race Winner",
+  "author": "Trần Minh Sáng",
   "version": "1.0",
   "description": "Extension allows you to choose the winner of the Duck Race game using JavaScript",
   "action": {
